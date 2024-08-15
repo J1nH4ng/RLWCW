@@ -1,0 +1,14 @@
+[workspace]
+resolver = "2"
+members = [
+    "bin",
+    "variables",
+]
+
+[workspace.package]
+version = "0.0.1"
+authors = ["J1nH4ng<j1nh4ng@icloud.com>"]
+description = "Rust Learning"
+documentation = ""
+
+[workspace.dependencies]
